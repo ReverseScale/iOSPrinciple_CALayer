@@ -35,7 +35,7 @@ QuartzCore 主要结构:
 
 ```
 iOS —> UIKit(触控)      \
-							QuartzCore
+				QuartzCore
 macOS —> NSView(鼠标)   /
 ```
 
